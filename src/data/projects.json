@@ -1,9 +1,40 @@
-[  {
-    "title": "Tan Brown",
+[ 
+      {
+    "title": "Maverick",
     "imageSrc": "projects/tanbrown.png",
-    "description": "Trading Brands ",
+    "description": "Logistics ",
+    "skills": ["webflow", "Javascript", "3d"],
+    "demo": "https://www.mavarick.ai/"
+  },
+    
+    {
+    "title": "Importex",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Logistics ",
     "skills": ["webflow", "Javascript"],
-    "demo": "https://www.tanbrowntrading.com/"
+    "demo": "https://www.importex.ai/"
+  }, 
+    
+    {
+    "title": "Kind energy",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Solar system ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.kindenergy.in/"
+  },
+    {
+    "title": "perceptyne",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Robotics ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.perceptyne.com/"
+  },
+    {
+    "title": "Stack fusion",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Packaging ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.stackfusion.io/"
   },
      {
     "title": "Rohini Properties",
