@@ -9,8 +9,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Mugesh Kanna</h1>
         <p className={styles.description}>
-         I’m a Web Developer with 1 year of experience, specializing in
-          Webflow. I’ve built 10+ responsive, SEO-friendly websites, turning
+         I’m a Web Developer with 2 year of experience, specializing in
+          Webflow. I’ve built 15+ responsive, SEO-friendly websites, turning
           Figma designs into clean, high-performing sites. I also have working
           knowledge of React and Node.js, expanding my skills in full-stack
           development.
