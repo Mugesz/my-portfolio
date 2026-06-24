@@ -15,7 +15,7 @@ export const Hero = () => {
           knowledge of React and Node.js, expanding my skills in full-stack
           development.
         </p>
-        <a href="https://drive.google.com/file/d/1MgMw_InyMyBtTXsSPHGl_qNoJ54lQ71o/view?usp=sharing" target="_blank" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1iQpHna9a40YlUyxvDfjXLiFM2qCbXFWF/view?usp=drivesdk" target="_blank" className={styles.contactBtn}>
          View Cv
         </a>
       </div>
